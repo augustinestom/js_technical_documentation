@@ -1,7 +1,6 @@
+# Technical Documentation 
 
-#Technical Documentation 
-
-Responsive Web Design Projects -A Survey Form | FreeCodeCamp
+Responsive Web Design Projects -A Technical documentation page  | FreeCodeCamp
 
 This is the  project of the Responsive Web Design in Free Code Camp and the objective was to build a Technical Documentation page that meets Free Code Camp's user stories.
 
